@@ -1,15 +1,22 @@
-<h1>Hi, I'm Ozzy! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Software Engineer</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Ozzy! <br/><a href="https://github.com/Ozzman424">Programmer</a>, <a href="https://www.linkedin.com/in/asfandyar-iqbal-30a343169/">Software Engineer</a></h1>
 
 <h2>👨‍💻 Software Engineering Projects:</h2>
 
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-
-<h2>📺 Popular YouTube Videos</h2>
-
-- [How to get into Software Engineering Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
+  - [Capitalize & Removing White Spaces Application (User Input Demo)](https://github.com/Ozzman424/Ozzman424/blob/main/white_space.py)
+  - [Calculator Application](https://github.com/Ozzman424/Ozzman424/blob/main/calculator.py)
+  - [Creating Your Own Functions (Def Function Demo)](https://github.com/Ozzman424/Ozzman424/blob/main/hello%20def.py)
+  - [Squared Calculator Application (Def Function Demo)](https://github.com/Ozzman424/Ozzman424/blob/main/calculator_squared.py)
+  - [Greeting Return Application (Def Function Demo)](https://github.com/Ozzman424/Ozzman424/blob/main/greeting.py)
+  - [Guess Value Application (If, Else Demo)](https://github.com/Ozzman424/Ozzman424/blob/main/guess.py)
+  - [Compare Value Application ((If, Else, Int Demo) Demo)](https://github.com/Ozzman424/Ozzman424/blob/main/compare.py)
+  - [Grading Score Application (If, Elif, Else Demo)](https://github.com/Ozzman424/Ozzman424/blob/main/grade.py)
+  - [Parity Odd/Even Values Application (True Or False Demo)](https://github.com/Ozzman424/Ozzman424/blob/main/parity.py)
+  - [Student's House Database Application (Database Input Demo)](https://github.com/Ozzman424/Ozzman424/blob/main/house.py)
+  - [Function Within A Function While Loop Application (Range Function Demo)](https://github.com/Ozzman424/Ozzman424/blob/main/cat.py)
+  - [Student Dictionary Application (Dictionary Demo)](https://github.com/Ozzman424/Ozzman424/blob/main/hogwarts.py)
+  - [Mario Blocks Generator Application (Range Function Demo)](https://github.com/Ozzman424/Ozzman424/blob/main/mario.py)
+  
 
 <h2> 🤳 Connect with me:</h2>
 
@@ -25,6 +32,15 @@
 
 <!--
 **Ozzman424/Ozzman424** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+****
+<h2>📺 Popular YouTube Videos</h2>
+
+- [How to get into Software Engineering Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
+
+****
 
 Here are some ideas to get you started:
 
