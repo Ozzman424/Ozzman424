@@ -3,7 +3,6 @@
 <h2>👨‍💻 Software Engineering Projects:</h2>
 
 - <b>Python</b>
-  - [Capitalize & Removing White Spaces Application (User Input Demo)](https://github.com/Ozzman424/Ozzman424/blob/main/white_space.py)
   - [Calculator Application](https://github.com/Ozzman424/Ozzman424/blob/main/calculator.py)
   - [Creating Your Own Functions (Def Function Demo)](https://github.com/Ozzman424/Ozzman424/blob/main/hello%20def.py)
   - [Squared Calculator Application (Def Function Demo)](https://github.com/Ozzman424/Ozzman424/blob/main/calculator_squared.py)
@@ -13,6 +12,7 @@
   - [Grading Score Application (If, Elif, Else Demo)](https://github.com/Ozzman424/Ozzman424/blob/main/grade.py)
   - [Parity Odd/Even Values Application (True Or False Demo)](https://github.com/Ozzman424/Ozzman424/blob/main/parity.py)
   - [Student's House Database Application (Database Input Demo)](https://github.com/Ozzman424/Ozzman424/blob/main/house.py)
+  - [Capitalize & Removing White Spaces Application (User Input Demo)](https://github.com/Ozzman424/Ozzman424/blob/main/white_space.py)
   - [Function Within A Function While Loop Application (Range Function Demo)](https://github.com/Ozzman424/Ozzman424/blob/main/cat.py)
   - [Student Dictionary Application (Dictionary Demo)](https://github.com/Ozzman424/Ozzman424/blob/main/hogwarts.py)
   - [Mario Blocks Generator Application (Range Function Demo)](https://github.com/Ozzman424/Ozzman424/blob/main/mario.py)
