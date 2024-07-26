@@ -1,8 +1,17 @@
-<h1>Hi, I'm Ozzy! <br/><a href="https://github.com/Ozzman424">Programmer</a>, <a href="https://www.linkedin.com/in/asfandyar-iqbal-30a343169/">Software Engineer</a></h1>
+<h1>Hi, I'm Asfandyar! <br/><a href="https://github.com/Ozzman424">Programmer</a>, <a href="https://www.linkedin.com/in/asfandyar-iqbal-30a343169/">Software Engineer</a></h1>
 
 <h2>👨‍💻 Software Engineering Projects:</h2>
 
+- <b>Java</b>
+  - [A Twitter bot that sends news updates from popular stock trading creators to make trading moves](https://github.com/Ozzman424/Twitter_bot)
+
+- <b>HTML / CSS</b>
+  - [A website to find cheap flights on the internet](https://github.com/Ozzman424/Flights)
+
 - <b>Python</b>
+  - [A bot that texts you in the morning to let you know if it's going to rain in your area](https://github.com/Ozzman424/Ozzman424/blob/main/weather.py)
+  - [A bot to automatically send birthday emails to your family](https://github.com/Ozzman424/Ozzman424/blob/main/birthday.py)
+  - [Student Dictionary Application (Dictionary Demo)](https://github.com/Ozzman424/Ozzman424/blob/main/hogwarts.py)
   - [Calculator Application](https://github.com/Ozzman424/Ozzman424/blob/main/calculator.py)
   - [Creating Your Own Functions (Def Function Demo)](https://github.com/Ozzman424/Ozzman424/blob/main/hello%20def.py)
   - [Squared Calculator Application (Def Function Demo)](https://github.com/Ozzman424/Ozzman424/blob/main/calculator_squared.py)
@@ -14,7 +23,6 @@
   - [Student's House Database Application (Database Input Demo)](https://github.com/Ozzman424/Ozzman424/blob/main/house.py)
   - [Capitalize & Removing White Spaces Application (User Input Demo)](https://github.com/Ozzman424/Ozzman424/blob/main/white_space.py)
   - [Function Within A Function While Loop Application (Range Function Demo)](https://github.com/Ozzman424/Ozzman424/blob/main/cat.py)
-  - [Student Dictionary Application (Dictionary Demo)](https://github.com/Ozzman424/Ozzman424/blob/main/hogwarts.py)
   - [Mario Blocks Generator Application (Range Function Demo)](https://github.com/Ozzman424/Ozzman424/blob/main/mario.py)
   
 
