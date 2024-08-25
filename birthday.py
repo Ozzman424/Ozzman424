@@ -5,16 +5,14 @@ from email.mime.multipart import MIMEMultipart
 from datetime import datetime
 import time
 
-# Email configuration
+
 email_user = 'your_email@example.com'
 email_password = 'your_email_password'
 email_subject = 'Happy Birthday!'
 
-# SMTP server configuration for Gmail
 smtp_server = 'smtp.gmail.com'
 smtp_port = 587
 
-# Load the birthday data
 birthday_data = pd.read_csv('birthdays.csv')
 
 def send_birthday_email(name, email):
