@@ -2,10 +2,8 @@ import pygame
 import time
 import random
 
-# Initialize Pygame
 pygame.init()
 
-# Define colors
 white = (255, 255, 255)
 yellow = (255, 255, 102)
 black = (0, 0, 0)
@@ -13,21 +11,17 @@ red = (213, 50, 80)
 green = (0, 255, 0)
 blue = (50, 153, 213)
 
-# Display dimensions
 dis_width = 800
 dis_height = 600
 
-# Initialize display
 dis = pygame.display.set_mode((dis_width, dis_height))
 pygame.display.set_caption('Snake Game by Ed')
 
-# Clock
 clock = pygame.time.Clock()
 
 snake_block = 10
 snake_speed = 15
 
-# Fonts
 font_style = pygame.font.SysFont("bahnschrift", 25)
 score_font = pygame.font.SysFont("comicsansms", 35)
 
