@@ -3,13 +3,13 @@ from twilio.rest import Client
 from datetime import datetime, timedelta
 import time
 
-# Twilio configuration
+
 account_sid = 'your_twilio_account_sid'
 auth_token = 'your_twilio_auth_token'
 twilio_phone_number = 'your_twilio_phone_number'
 your_phone_number = 'your_phone_number'
 
-# Weather API configuration
+
 api_key = 'your_weather_api_key'
 latitude = 33.0198
 longitude = -96.6989
@@ -18,7 +18,7 @@ def get_weather_forecast():
     url = f"https://api.openweathermap.org/data/2.5/onecall?lat={latitude}&lon={longitude}&exclude=current,minutely,hourly,alerts&appid={api_key}&units=imperial"
     response = requests.get(url)
     data = response.json()
-    daily_forecast = data['daily'][0]  # Today's forecast
+    daily_forecast = data['daily'][0] 
     weather_conditions = daily_forecast['weather'][0]['main']
     return weather_conditions
 
