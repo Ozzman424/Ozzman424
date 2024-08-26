@@ -13,6 +13,7 @@
   - [A bot to automatically send birthday emails to your family](https://github.com/Ozzman424/Ozzman424/blob/main/birthday.py)
   - [Student Dictionary Application (Dictionary Demo)](https://github.com/Ozzman424/Ozzman424/blob/main/hogwarts.py)
   - [Snake Game](https://github.com/Ozzman424/Ozzman424/blob/main/snake.py)
+  - [Pizza](https://github.com/Ozzman424/Ozzman424/blob/main/pizza.py)
   - [Calculator Application](https://github.com/Ozzman424/Ozzman424/blob/main/calculator.py)
   - [Creating Your Own Functions (Def Function Demo)](https://github.com/Ozzman424/Ozzman424/blob/main/hello%20def.py)
   - [Squared Calculator Application (Def Function Demo)](https://github.com/Ozzman424/Ozzman424/blob/main/calculator_squared.py)
