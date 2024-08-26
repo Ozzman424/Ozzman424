@@ -14,6 +14,7 @@
   - [Student Dictionary Application (Dictionary Demo)](https://github.com/Ozzman424/Ozzman424/blob/main/hogwarts.py)
   - [Snake Game](https://github.com/Ozzman424/Ozzman424/blob/main/snake.py)
   - [Pizza](https://github.com/Ozzman424/Ozzman424/blob/main/pizza.py)
+  - [CS50 P-Shirt](https://github.com/Ozzman424/Ozzman424/blob/main/Shirt.py)
   - [Calculator Application](https://github.com/Ozzman424/Ozzman424/blob/main/calculator.py)
   - [Creating Your Own Functions (Def Function Demo)](https://github.com/Ozzman424/Ozzman424/blob/main/hello%20def.py)
   - [Squared Calculator Application (Def Function Demo)](https://github.com/Ozzman424/Ozzman424/blob/main/calculator_squared.py)
