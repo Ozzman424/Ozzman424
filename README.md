@@ -23,9 +23,6 @@
   - [Grading Score Application (If, Elif, Else Demo)](https://github.com/Ozzman424/Ozzman424/blob/main/grade.py)
   - [Parity Odd/Even Values Application (True Or False Demo)](https://github.com/Ozzman424/Ozzman424/blob/main/parity.py)
   - [Student's House Database Application (Database Input Demo)](https://github.com/Ozzman424/Ozzman424/blob/main/house.py)
-  - [Capitalize & Removing White Spaces Application (User Input Demo)](https://github.com/Ozzman424/Ozzman424/blob/main/white_space.py)
-  - [Function Within A Function While Loop Application (Range Function Demo)](https://github.com/Ozzman424/Ozzman424/blob/main/cat.py)
-  - [Mario Blocks Generator Application (Range Function Demo)](https://github.com/Ozzman424/Ozzman424/blob/main/mario.py)
   
 
 <h2> 🤳 Connect with me:</h2>
