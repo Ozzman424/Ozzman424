@@ -2,11 +2,14 @@
 
 <h2>👨‍💻 Software Engineering Projects:</h2>
 
-- <b>Java</b>
-  - [A Twitter bot that sends news updates from popular stock trading creators to make trading moves](https://github.com/Ozzman424/Twitter_bot)
+- <b>Flagship project | Python, FastAPI, SQLModel, SQLite, Pytest</b>
+  - [Mortgage Pre-Approval Simulator](https://github.com/Ozzman424/mortgage-preapproval-api)
 
-- <b>HTML / CSS</b>
-  - [A website to find cheap flights on the internet](https://github.com/Ozzman424/Flights)
+- <b>Python, Flask, Skyscanner API, SQLite, Pytest, HTML</b>
+  - [Cheap Flights Finder Website](https://github.com/Ozzman424/cheap-flights-api)
+
+- <b>Java</b>
+  - [Twitter bot for stock news updates](https://github.com/Ozzman424/Twitter_bot)
 
 - <b>Python</b>
   - [A bot that texts you in the morning to let you know if it's going to rain in your area](https://github.com/Ozzman424/Ozzman424/blob/main/weather.py)
